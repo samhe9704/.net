@@ -1,0 +1,14 @@
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.pdb
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csprojAssemblyReference.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.pdb
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.pdb
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csprojAssemblyReference.cache
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.exe
+C:\Users\samh1\Desktop\C#\Tutorial-Lab4-ProgrammingQuestions\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.pdb
